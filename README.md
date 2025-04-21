@@ -69,5 +69,5 @@ Otimização de rotas internacionais.
 
 Decisões baseadas em dados para parcerias e investimentos.
 📎 Autor
-[Seu Nome] – Analista de Dados
+[Mayerikson] – Analista de Dados
 GitHub: https://github.com/Mayerikson
