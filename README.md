@@ -1,66 +1,73 @@
-# ✈️ AeroVision Strategic Analysis
+✈️ Análise Estratégica AeroVision
 
-This project analyzes public air traffic data from San Francisco International Airport (SFO) to identify strategic insights for AeroVision, a fictional airline company.
 
----
+Este projeto analisa dados de tráfego aéreo público do Aeroporto Internacional de São Francisco (SFO) para identificar insights estratégicos para a AeroVision, uma empresa aérea fictícia.
 
-## 📊 Objective
+📊 Objetivo
 
-To simulate how an airline company can leverage open data for operational and strategic decision-making, using SFO data as a proxy to analyze aircraft performance, international traffic patterns, and manufacturer relevance.
 
----
+Simular como uma companhia aérea pode aproveitar dados abertos para tomadas de decisão operacionais e estratégicas, usando os dados do SFO como proxy para analisar o desempenho das aeronaves, padrões de tráfego internacional e relevância dos fabricantes.
 
-## 🧠 Business Questions
+🧠 Perguntas de Negócio
 
-1. Which factors most influence international flight operations?
-2. What is the probability that an aircraft type operates more than X times per year?
-3. Which manufacturers account for the largest total landed weight?
-4. Which aircraft types are most frequent per airline?
+Quais fatores mais influenciam as operações de voos internacionais?
 
----
 
-## 🛠️ Tools & Technologies
+Qual é a probabilidade de que um tipo de aeronave opere mais de X vezes por ano?
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Jupyter Notebook
-- Public Dataset: [Air Traffic Statistics - SFO](https://www.kaggle.com/datasets/)
 
----
+Quais fabricantes respondem pela maior quantidade de peso total pousado?
 
-## 🚀 Project Structure
 
-- `Vision.ipynb`: Main notebook with EDA and business analysis
-- `README.md`: Project documentation
-- `/figures`: Exported charts and visuals
-- `/presentation`: Executive summary (optional)
+Quais tipos de aeronaves são mais frequentes por companhia aérea?
 
----
 
-## 📅 Project Plan (Scrum Style)
+🛠️ Ferramentas e Tecnologias
 
-- **Sprint 1:** Data collection & cleaning
-- **Sprint 2:** Exploratory analysis and answering business questions
-- **Sprint 3:** Strategic recommendations and final presentation
 
----
+Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-## 💡 Key Insights
 
-- Aircraft model and airline strongly influence international traffic patterns.
-- Certain manufacturers dominate in total landed weight, suggesting strong operational presence.
-- Recurrent aircraft types reveal patterns for route planning and optimization.
+Jupyter Notebook
 
----
+Conjunto de Dados Público: Estatísticas de Tráfego Aéreo - SFO
 
-## 💰 Expected Impact
 
-- Strategic fleet allocation
-- Optimization of international routes
-- Data-driven decisions for partnerships and investments
+🚀 Estrutura do Projeto
 
----
 
-## 📎 Author
+Vision.ipynb: Notebook principal com análise exploratória de dados e análise de negócios.
 
-**[Seu Nome]** – Data Analyst  
-GitHub: [https://github.com/Mayerikson](https://github.com/Mayerikson)
+
+README.md: Documentação do projeto.
+
+/figures: Gráficos e visuais exportados.
+
+/presentation: Resumo executivo (opcional).
+
+📅 Plano do Projeto (Estilo Scrum)
+
+Sprint 1: Coleta e limpeza de dados.
+
+Sprint 2: Análise exploratória e respostas às perguntas de negócio.
+
+Sprint 3: Recomendações estratégicas e apresentação final.
+
+💡 Principais Insights
+
+O modelo da aeronave e a companhia aérea influenciam fortemente os padrões de tráfego internacional.
+
+Certos fabricantes dominam em termos de peso total pousado, sugerindo uma forte presença operacional.
+
+Tipos de aeronaves recorrentes revelam padrões para planejamento e otimização de rotas.
+
+💰 Impacto Esperado
+
+Alocação estratégica de frota.
+
+Otimização de rotas internacionais.
+
+Decisões baseadas em dados para parcerias e investimentos.
+📎 Autor
+[Seu Nome] – Analista de Dados
+GitHub: https://github.com/Mayerikson
